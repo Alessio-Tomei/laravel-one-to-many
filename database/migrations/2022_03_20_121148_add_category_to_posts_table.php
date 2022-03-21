@@ -4,6 +4,8 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
+
+// php artisan make:migration add_category_to_posts_table
 class AddCategoryToPostsTable extends Migration
 {
     /**
